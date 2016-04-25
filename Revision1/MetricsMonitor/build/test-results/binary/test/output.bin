@@ -1,0 +1,32 @@
+Testing Process Info
+ Processes Reading is started...
+Processes are read.
+Process data is not null
+Testing Process Info Text File
+ Processes Reading is started...
+Processes are read.
+$Process Info Text File is not Empty
+Testing Memory Info
+Memory Reading is started...
+MemoryList are read.
+Memory data is not null
+Testing Memory Info Text File
+Memory Reading is started...
+MemoryList are read.
+#Memory Info Text File is not Empty
+Testing Disk Info
+Memory Reading is started...
+Disk data is read.
+Disk Data is not null
+Testing Disk Info Text File
+Memory Reading is started...
+Disk data is read.
+!Disk Info Text File is not Empty
+Testing Network Info
+ Processes Reading is started...
+networks are read.
+Network Data is not null
+Testing Network Info Text File
+ Processes Reading is started...
+networks are read.
+$Network Info Text File is not Empty

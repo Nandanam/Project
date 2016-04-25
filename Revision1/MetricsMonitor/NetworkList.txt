@@ -1,0 +1,8 @@
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp6       0      0 localhost:50323         localhost:53042         ESTABLISHED
+tcp6       0      0 localhost:56382         localhost:33285         ESTABLISHED
+tcp6       0      0 localhost:53040         localhost:50323         TIME_WAIT  
+tcp6       0      0 localhost:33285         localhost:56382         ESTABLISHED
+tcp6       0      0 localhost:53042         localhost:50323         ESTABLISHED
+tcp6       0      0 localhost:41312         localhost:34815         TIME_WAIT  
+null

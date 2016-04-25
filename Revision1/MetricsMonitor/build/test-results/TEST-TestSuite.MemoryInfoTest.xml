@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite.MemoryInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-22T00:20:32" hostname="148-100-176-102.FoxNet.marist.edu" time="0.009">
+  <properties/>
+  <testcase name="test" classname="TestSuite.MemoryInfoTest" time="0.009"/>
+  <system-out><![CDATA[Testing Memory Info
+Memory Reading is started...
+MemoryList are read.
+Memory data is not null
+Testing Memory Info Text File
+Memory Reading is started...
+MemoryList are read.
+Memory Info Text File is not Empty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

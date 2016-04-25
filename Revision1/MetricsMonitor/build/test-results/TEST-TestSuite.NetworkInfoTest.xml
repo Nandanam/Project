@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite.NetworkInfoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2016-04-22T00:20:32" hostname="148-100-176-102.FoxNet.marist.edu" time="0.026">
+  <properties/>
+  <testcase name="test" classname="TestSuite.NetworkInfoTest" time="0.026"/>
+  <system-out><![CDATA[Testing Network Info
+Processes Reading is started...
+networks are read.
+Network Data is not null
+Testing Network Info Text File
+Processes Reading is started...
+networks are read.
+Network Info Text File is not Empty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
